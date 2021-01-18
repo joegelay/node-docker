@@ -1,0 +1,23 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "simple node app to learn about containerization using Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joegelay/node-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joegelay/node-docker/issues"
+  },
+  "homepage": "https://github.com/joegelay/node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
